@@ -2,3 +2,4 @@ blue
 green
 black
 yellow
+pink
