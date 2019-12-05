@@ -29,6 +29,15 @@ Aborting
  2. Discard changes. It's pretty much lose your updates. If some files conflicts you can discard your updates
  and pull code successfully
 
+
+ git add .
+ git commit -m "added white color"
+ git pull
+ conflict----> resolve conflicts file GIT
+
+
+
+
 **************************************
  3. Resolve merge conflict right away
  1. add your file to the staging area git add
