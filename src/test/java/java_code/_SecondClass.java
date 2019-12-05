@@ -1,6 +1,6 @@
 package java_code;
 
-public class SecondClass {
+public class _SecondClass {
 
     public static void main(String[] args) {
         String myname= "Iuliia";
