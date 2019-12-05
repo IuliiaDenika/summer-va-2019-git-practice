@@ -4,3 +4,4 @@ black
 yellow
 pink
 white
+orange
