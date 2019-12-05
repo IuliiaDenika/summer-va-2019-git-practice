@@ -26,6 +26,14 @@ Aborting
 
  SOLUTION
  1. Stash changed. It' s when you save your changes on a side. Then, you can apply your changes
+ avoid breaking a code dev stash changes and open them when they pulled and can continue development
+
+ 1. git pull
+ 2. git stash save "added cyber yellow and gold"
+ 3. git pull
+ 4. git stash list
+
+
  2. Discard changes. It's pretty much lose your updates. If some files conflicts you can discard your updates
  and pull code successfully
 
